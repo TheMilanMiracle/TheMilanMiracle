@@ -18,3 +18,5 @@ topics related to computer science:
 
 - [Webpage](https://users.dcc.uchile.cl/~lmarquez/) (still a work in progress⏳):
 - More to come...
+
+![Alt text](image.png)
