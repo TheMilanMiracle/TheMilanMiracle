@@ -19,4 +19,4 @@ topics related to computer science:
 - [Webpage](https://users.dcc.uchile.cl/~lmarquez/) (still a work in progress⏳):
 - More to come...
 
-![Alt text](image.png)
+![image](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/172afeaa-7b32-464a-8d6a-dff906a24288)
