@@ -24,6 +24,8 @@ topics related to computer science:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![SQL](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/8697c546-ea82-4b01-8450-8a32ef8064c5)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themilanmiracle&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/themilanmiracle/github-readme-stats)
 
