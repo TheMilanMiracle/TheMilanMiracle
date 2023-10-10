@@ -14,7 +14,7 @@ topics related to computer science:
 - 🌐 Web Development
 - 🎮 Videogame Development
 
-## 👨🏻‍💻​ Programming languages
+## 👨🏻‍💻​ Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
@@ -24,6 +24,8 @@ topics related to computer science:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themilanmiracle&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/themilanmiracle/github-readme-stats)
 
 ## 🔧 Tools
 
@@ -39,7 +41,6 @@ topics related to computer science:
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-
 
 ## 📦 My other stuff
 
