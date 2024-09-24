@@ -2,7 +2,7 @@
 
 ## 💬 About Me 
 
-I'm a 21 y.o. Computer Science and STEM student, currently in the [computer science department](https://www.dcc.uchile.cl/) at [University of Chile](https://uchile.cl/) ([FCFM](https://ingenieria.uchile.cl/))
+I'm a 22 y.o. Computer Science and STEM student, currently in the [computer science department](https://www.dcc.uchile.cl/) at [University of Chile](https://uchile.cl/) ([FCFM](https://ingenieria.uchile.cl/))
 
 ## 👓 Topics of my interest
 topics related to computer science:
